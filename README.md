@@ -2,6 +2,7 @@
 
 ## Xcode
 * Swift
+  * [문법기초](https://github.com/GOD5WEN/TIL/blob/main/Xcode/23.11.21.md)
 
 ## ETC
 * iTerm2
