@@ -2,13 +2,13 @@
 
 ## Xcode
 * Interface
-  * [StoryBoard]()
+  * [StoryBoard](https://github.com/GOD5WEN/TIL/blob/main/Xcode/Interface./StoryBoard.md)
 * Swift
   * [문법기초](https://github.com/GOD5WEN/TIL/blob/main/Xcode/23.11.21.md)
 
 ## ETC
 * GitHub
-  * [How To Use]()
+  * [How To Use](ETC./GitHub/HowToUse.md)
 * VSCode
   
 * iTerm2
