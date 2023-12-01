@@ -4,9 +4,9 @@
 * Interface
   * [StoryBoard](https://github.com/GOD5WEN/TIL/blob/main/Xcode/Interface./StoryBoard.md)
 * Swift
-  * [문법기초](Xcode/문법/기초 문법 가이드.md)
-  * [함수] (Xcode/문법/함수.md)
-  * [Optionals] (Xcode/문법/Optionals.md)
+  * [기본가이드](Xcode/문법/기초문법가이드.md)
+  * [함수](Xcode/문법/함수.md)
+  * [Optionals](Xcode/문법/Optionals.md)
 ## Algorithmn Test
 
 ## ETC
