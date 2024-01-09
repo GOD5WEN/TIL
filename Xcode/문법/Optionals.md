@@ -12,7 +12,7 @@ optionals < Tyep > (실제로는 띄어쓰기 안함) 풀코드로 선언할 수
 변수에 옵셔널을 적용하면 값(123)을 프린트 할때 optionals(123) 이라고 출력되는데
 이를 강제 추출 하기 위해서는 변수뒤에!를 적어주면 된다.
 
-```
+```SWIFT
 var num: Int? = 123
 
 print(num)   //Optionals123 출력됨
@@ -22,7 +22,7 @@ print(num!)  //123 출력됨
 
 # Optional Binding
 #### 예제
-```
+```SWIFT
 if let name: Type = OptionalExpression {
     statements
 }
@@ -37,7 +37,7 @@ guard let name: Type = OptionalExpression else {
 
 ```
 #### 예시
-```
+```SWIFT
 var num: Int? = 123
 if let n = num {
     print(n)

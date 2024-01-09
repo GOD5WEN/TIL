@@ -16,7 +16,7 @@
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ## 정답 코드
-  
+```SWIFT
      func solution(_ num1:Int, _ num2:Int) -> Int { 
     if num1 == num2 {
         return 1
@@ -24,6 +24,7 @@
         return -1
     }
       }
+```
  
 </details> <br/><br/>
 
@@ -37,7 +38,7 @@
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ## 정답 코드
-    
+```SWIFT
      import Foundation
 
      func solution(_ age:Int) -> Int {
@@ -46,5 +47,6 @@
     
      return year-(age-1)
      }
+```
 
 </details> <br/><br/>
